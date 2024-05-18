@@ -13,12 +13,12 @@ Recipe generator using MLP and STREAMLIT .Here i made a recipe genrator using ml
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
-1. Here i made a recipe genrator using mlp model . Training the model on a custom dataset of recipes ,ingrediants and instructions . Also made a ui for connecting this so tht the user gets a easy out put as recipe name and instructions genrated uing our model by giving the ingrediants at home as input .This is for educational and fun purpose , now used for this coding saturday hacknigth.
-2. Embed video of project demo
+ Here i made a recipe genrator using mlp model . Training the model on a custom dataset of recipes ,ingrediants and instructions . Also made a ui for connecting this so tht the user gets a easy out put as recipe name and instructions genrated uing our model by giving the ingrediants at home as input .This is for educational and fun purpose , now used for this coding saturday hacknigth.
+
 ## Libraries used
  1.pandas: Used for data manipulation and analysis. 
  2.scikit-learn (sklearn): used for preprocessing the data, splitting the dataset, encoding labels, and training the MLP classifier.
 ## How to configure
-
+Train the dataset using the training code using python , then put the model and recipe rgenarator code file in a same folder then run terminal 
 ## How to Run
-Run your Streamlit app by executing" streamlit run app.py "in your command line or terminal.
+Run your Streamlit app by executing" streamlit run recipe_generator.py "in your command line or terminal.

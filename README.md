@@ -8,8 +8,8 @@
 # Getdished
 Recipe generator using MLP and STREAMLIT .Here i made a recipe genrator using mlp model .Training the model on a custom dataset of recipes ,ingrediants and instructions . Also made a ui for connecting this so tht the user gets a easy out put as recipe name and instructions genrated uing our model by giving the ingrediants at home as input .This is for educational and fun purpose , now used for this coding saturday hacknigth.
 ## Team members
-1. [Alaxo joy](https://github.com/TH-Activities/saturday-hack-night-template)
-3. [Gopika ps](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [Alaxooy](https://github.com/TH-Activities/saturday-hack-night-template)
+3. [Dopikaps321](https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
